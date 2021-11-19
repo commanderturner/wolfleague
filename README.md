@@ -3,7 +3,7 @@
 Some tracks for living...
 
 - [Gather](./media/wolf_league-gather.mp3)
-- [Twizzlesticks](./media/wolf_league-twizzlesticks)
+- [Twizzlesticks](./media/wolf_league-twizzlesticks.mp3)
 - [Birds singing](./media/wolf_league-birds_singing.mp3)
 - [Dingo](./media/wolf_league-dingo.mp3)
 - [Woggle](./media/wolf_league-woggle.mp3)
