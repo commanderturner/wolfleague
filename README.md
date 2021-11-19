@@ -2,4 +2,4 @@
 
 Some tracks for living...
 
-- [Gather](github.io/commanderturner/wolfleague/media/wolf_league-gather.mp3)
+- [Gather](./media/wolf_league-gather.mp3)
