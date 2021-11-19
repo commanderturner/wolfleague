@@ -1,6 +1,8 @@
-## Welcome to Wolf League
 
-Some tracks for living...
+
+A shadowy flight into the dangerous world of a man who does not exist. Wolf League, a young loner on a crusade, to champion the cause of the innocent, the helpless, the powerless. In a world of criminals who operate above the law…
+
+here are some tracks...
 
 ### The OK Escape
 
