@@ -1,0 +1,2 @@
+# wolfleague
+static site
