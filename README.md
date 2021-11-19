@@ -20,7 +20,7 @@ here are some tracks...
 - [My new toy](./media/wolf_league-my_new_toy.mp3)
 - [Palm Drive disaster](./media/wolf_league-palm_drive_disaster.mp3)
 - [Phreakout](./media/wolf_league-phreakout21.mp3)
-- [Speedhound](./media/wolf_league-speedhound.mp3)
+- [Speedhound](./media/wolf_league-speed_hound.mp3)
 - [Time to change](./media/wolf_league-time_to_change.mp3)
 - [This wide world](./media/wolf_league-this_wide_world.mp3)
 - [Goddess](./media/wolf_league-goddess.mp3)
