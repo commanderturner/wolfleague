@@ -49,7 +49,7 @@ ul li {
   list-style-image: url("../images/bullet.png");
 }
 li {
-  line-height: 1.4;
+  line-height: 3;
 }
 a {
   color: #63c0f5;
@@ -60,4 +60,20 @@ header h2 {
   font-size: 18px;
   font-weight: 300;
   color: #666;
+}
+audio {
+  vertical-align: middle;
+  float: left;
+}
+.audio-container {
+  height: 3em;
+}
+.column {
+  float: left;
+}
+.left {
+  width: 30%;
+}
+.right {
+  width: 70%;
 }
