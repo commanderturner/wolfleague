@@ -1,1 +1,1 @@
-[./wolfleague](http://wolfleague.info)
+[./wolfleague](https://wolfleague.info)
