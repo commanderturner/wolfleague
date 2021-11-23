@@ -11,9 +11,9 @@ body {
 header {
   background: rgba(0, 0, 0, 0.1);
   width: 100%;
-  border-bottom: 1px dashed #b5e853;
+  /* border-bottom: 1px dashed #b5e853; */
   padding: 20px 0;
-  margin: 0 0 40px 0;
+  /* margin: 0 0 40px 0; */
 }
 .container {
   width: 90%;
@@ -65,15 +65,79 @@ audio {
   vertical-align: middle;
   float: left;
 }
-.audio-container {
-  height: 3em;
-}
 .column {
   float: left;
 }
 .left {
-  width: 40%;
+  width: 50%;
 }
 .right {
   width: 40%;
 }
+
+button {
+  margin-left: 1em;
+}
+.track-title {
+  color: #b5e853;
+}
+.play-button {
+  /* background: url("../images/bullet.png") no-repeat; */
+  cursor: pointer;
+  border: none;
+  border-top-color: currentcolor;
+  border-top-style: none;
+  border-top-width: medium;
+  border-right-color: currentcolor;
+  border-right-style: none;
+  border-right-width: medium;
+  border-bottom-color: currentcolor;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+  border-left-color: currentcolor;
+  border-left-style: none;
+  border-left-width: medium;
+  vertical-align: sub;
+  border: 1px dashed #b5e853;
+  width: 4em;
+  border-color: #b5e853;
+  color: white;
+  border-radius: 1em;
+  height: 2em;
+  border-style: solid;
+  border-width: 2px;
+  background-color: black;
+}
+
+.audio-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  grid-auto-rows: 3em;
+  border: 1px solid #b5e853;
+  border-radius: 2em;
+  padding: 1em;
+}
+.now-playing-container {
+  grid-row: 1;
+}
+.audio-player {
+  grid-row: 1;
+}
+.album-title {
+  display: block;
+  width: 100;
+}
+.track-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+  grid-auto-rows: 7em;
+  /* display: grid; */
+}
+/* .music {
+  display: grid;
+  grid-template-columns: (repeat(3, 1fr));
+  gap: 10px;
+  grid-auto-rows: (minmax(3em, auto));
+} */
