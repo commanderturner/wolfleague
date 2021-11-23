@@ -107,6 +107,8 @@ button {
   border-style: solid;
   border-width: 2px;
   background-color: black;
+  float: right;
+  margin-right: 1em;
 }
 
 .audio-container {
@@ -132,8 +134,17 @@ button {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
-  grid-auto-rows: 7em;
+  grid-auto-rows: 8em;
   /* display: grid; */
+}
+.track {
+  border-color: #63c0f5;
+  border-style: solid;
+  border-width: 1px;
+  box-shadow: 0 0 5px rgba(104, 182, 255, 0.5);
+  border-radius: 1em;
+  /* margin: 1em; */
+  padding: 1em;
 }
 /* .music {
   display: grid;
