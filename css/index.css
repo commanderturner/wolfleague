@@ -115,7 +115,7 @@ button {
   display: grid;
   grid-template-columns: (auto 1fr);
   gap: 10px;
-  grid-auto-rows: 3em;
+  grid-auto-rows: minmax(3, 5);
   border: 1px solid #b5e853;
   border-radius: 2em;
   padding: 1em;
